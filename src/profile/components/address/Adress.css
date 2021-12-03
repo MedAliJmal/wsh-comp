@@ -1,0 +1,15 @@
+.addr {
+    width: 60%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-size: 28px; */
+    padding-left: 225px;
+    padding-right: 300px;
+    padding-top: -10px;
+    color: rgb(28, 80, 122);
+}
+p {
+    margin-top: -10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
